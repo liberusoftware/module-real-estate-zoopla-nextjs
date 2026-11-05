@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-zoopla-nextjs",
+  "capabilityKey": "liberusoftware/real-estate-zoopla",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-real-estate-zoopla-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/real-estate/nextjs/real-estate-zoopla.md",
+  "presentationPlan": "projects/real-estate/nextjs/real-estate-zoopla.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
